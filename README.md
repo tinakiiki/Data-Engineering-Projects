@@ -1,4 +1,4 @@
-# Udacity-Data-Engineering-Projects
+# Data Engineering Projects
 This repository contains the projects completed as part of the Udacity Nanodegree in Data Engineering 
 The projects portray the journey in which I assumed the role of a Data Engineer at a fabricated data streaming company called “Sparkify” as it scales its data engineering in both size and sophistication. 
 
